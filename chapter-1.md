@@ -1,4 +1,4 @@
-# Chapter 1 - The blue chapter
+# Chapter 1 - The purple chapter
 ------
 
 It was a great day...
