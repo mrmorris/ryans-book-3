@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1 - The red chapter
 ------
 
 It was a great day...
