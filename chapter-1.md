@@ -1,4 +1,5 @@
 # Chapter 1
+------
 
 It was a great day...
 
