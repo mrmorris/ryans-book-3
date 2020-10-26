@@ -7,3 +7,5 @@ Editing in an IDE
 Editing in Sublime Text
 
 It was a dark and stormy day...
+
+More edits
