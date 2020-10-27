@@ -1,0 +1,5 @@
+configs/database.ini
+logs/*
+!logs/empty
+tmp/*
+!tmp/empty
